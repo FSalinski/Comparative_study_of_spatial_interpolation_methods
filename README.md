@@ -1,1 +1,3 @@
-# Comparative_study_of_spatial_interpolation_methods
+# Comparative study of spatial interpolation methods
+
+Repository for code used in my bachelor's thesis "Comparative study of spatial interpolation methods in geostatistics and machine learning".
